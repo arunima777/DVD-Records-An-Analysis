@@ -1,4 +1,4 @@
- -----------------------------Selecting movie length based on the length------------------------
+ -----------------------------Selecting movie length and their length description-----------------------
 
 select title, length,
 case
