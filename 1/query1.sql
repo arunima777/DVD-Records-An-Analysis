@@ -1,4 +1,4 @@
----------------------------------------------------------PROJECT ---------------------
+---------------------------------------------------------Adding to the description of the text ---------------------
 
 
 WITH short_film AS (
@@ -6,5 +6,5 @@ WITH short_film AS (
 	LIMIT 15	   	   )
 select  STRING_AGG(description, ', An African country ')
 FROM short_film
-----adding to the description of the text 1
+
 
